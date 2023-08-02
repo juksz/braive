@@ -12,8 +12,8 @@ github.com/josephspurrier/goversioninfo v1.4.0 h1:Puhl12NSHUSALHSuzYwPYQkqa2E1+7
 github.com/josephspurrier/goversioninfo v1.4.0/go.mod h1:JWzv5rKQr+MmW+LvM412ToT/IkYDZjaclF2pKDss8IY=
 github.com/juksz/devkit v1.56.14 h1:r+jR0mYLXo/jEJqUWB5USC1SPgUk+VSGHeJjWAblVHw=
 github.com/juksz/devkit v1.56.14/go.mod h1:4s4NyjQBlJDnIx6jw+lvN+9rBD171xuf14gSJUYc7Io=
-github.com/kevinburke/go-bindata v1.1.0 h1:JZ8XIdxtkAszuYkgf17qwQzcU/RgsGSVLSULJdN+5bU=
-github.com/kevinburke/go-bindata v1.1.0/go.mod h1:UJ72WTOoRKzbz+vwtKgARJwsy+1ZGUukVBUCc197TJo=
+github.com/kevinburke/go-bindata v3.24.0+incompatible h1:qajFA3D0pH94OTLU4zcCCKCDgR+Zr2cZK/RPJHDdFoY=
+github.com/kevinburke/go-bindata v3.24.0+incompatible/go.mod h1:/pEEZ72flUW2p0yi30bslSp9YqD9pysLxunQDdb2CPM=
 github.com/mattn/go-colorable v0.1.12 h1:jF+Du6AlPIjs2BiUiQlKOX0rt3SujHxPnksPKZbaA40=
 github.com/mattn/go-colorable v0.1.12/go.mod h1:u5H1YNBxpqRaxsYJYSkiCWKzEfiAb1Gb520KVy5xxl4=
 github.com/mattn/go-isatty v0.0.14 h1:yVuAays6BHfxijgZPzw+3Zlu5yQgKGP2/hcQbHb7S9Y=
